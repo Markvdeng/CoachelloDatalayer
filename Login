@@ -1,0 +1,9 @@
+<script>
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({
+ 'event': 'Login',
+ 'email': 'leon@coachello.io',
+ 'login_type: 'google' //Google, Microsoft or Email
+ 'user_id': 'Internal ID of the user'
+ });
+</script>
