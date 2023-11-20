@@ -4,8 +4,10 @@ window.dataLayer.push({
  'event': 'RequestCall',
  'email': 'leon@coachello.io',
  'phone_number': '+31612345678',
- 'company_name': 'Test',
- 'company_size': 'Test',
+ 'first_name': 'Leon',
+ 'last_name': 'Wever',
+ 'company_name': 'TestCompany',
+ 'company_size': '1-20',
  'comments': 'I want to get coaching'
  });
 </script>
