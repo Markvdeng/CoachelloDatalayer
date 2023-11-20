@@ -1,0 +1,11 @@
+<script>
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({
+ 'event': 'RequestCall',
+ 'email': 'leon@coachello.io',
+ 'phone_number': '+31612345678',
+ 'company_name': 'Test',
+ 'company_size': 'Test',
+ 'comments': 'I want to get coaching'
+ });
+</script>
